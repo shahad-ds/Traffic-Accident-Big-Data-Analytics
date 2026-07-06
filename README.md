@@ -1,5 +1,7 @@
 # Traffic-Accident-Big-Data-Analytics
 An end-to-end Big Data analytics project for traffic accident analysis using PySpark, PostgreSQL, Random Forest, XGBoost, and Power BI.
+
+## 📷 Dashboard Preview
 ![Dashboard](dashboard.png)
 
 # 🚦 Traffic Accident Big Data Analytics
@@ -86,7 +88,3 @@ Predicts the total number of injuries.
 - Result analysis
 
 ---
-
-## 📷 Dashboard Preview
-
-(Add dashboard screenshot here)
